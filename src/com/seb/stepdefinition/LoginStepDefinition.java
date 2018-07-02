@@ -13,6 +13,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class LoginStepDefinition {
+	/*
 	WebDriver driver;
 	
 	@Given("^User is already on Login Page$")
@@ -76,4 +77,5 @@ public class LoginStepDefinition {
 		driver.quit();
 	}
 
+*/
 }
